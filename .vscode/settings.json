@@ -1,0 +1,32 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.completion.favoriteStaticMembers": [
+
+        "com.fasterxml.jackson.annotation.JsonProperty.*",
+        "assertions",
+        "org.junit.runner.JUnitCore.*",
+        "org.junit.runner.Result.*",
+        "org.junit.runner.notification.Failure.*",
+        "org.junit.runner.RunWith.*",
+        "org.junit.runners.Suite.*",
+        "org.junit.Assert.*",
+        "org.junit.Assume.*",
+        "org.junit.jupiter.api.Assertions.*",
+        "org.junit.jupiter.api.Assumptions.*",
+        "org.junit.jupiter.api.DynamicContainer.*",
+        "org.junit.jupiter.api.DynamicTest.*",
+        "org.mockito.Mockito.*",
+        "org.mockito.ArgumentMatchers.*",
+        "org.mockito.Answers.*",
+        "org.junit.runner.JUnitCore.*",
+        "org.junit.runner.Result.*",
+        "org.junit.runner.notification.Failure.*",
+        "org.junit.runner.RunWith.*",
+        "org.junit.runners.Suite.*",
+        "org.junit.Assert.*",
+        "org.junit.Assume.*",
+    ],
+    "cSpell.words": [
+        "Testcases"
+    ]
+}
